@@ -1,5 +1,4 @@
 # Ludo-Game
 Ludo-Game
 
-its 1 am im tired
-ill fix the readme later
+![alt text](https://github.com/AyomideOjo/Ludo-Game/blob/main/i993_pimgpsh_fullsize_distr.webp?raw=true)
